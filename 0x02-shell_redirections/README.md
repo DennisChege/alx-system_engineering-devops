@@ -1,1 +1,1 @@
-Displaying first 10 lines
+Script displaying third line
