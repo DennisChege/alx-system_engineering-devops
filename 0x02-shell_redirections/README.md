@@ -1,1 +1,1 @@
-Script displaying third line
+Displaying the third line
