@@ -1,1 +1,1 @@
-Display confused smiley
+confused_smiley is a script that displays a confused smiley "(Ôo)'.
