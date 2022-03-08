@@ -1,1 +1,1 @@
-text ending by a new line
+Save current directory state
