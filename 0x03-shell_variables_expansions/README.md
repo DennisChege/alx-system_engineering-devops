@@ -1,1 +1,1 @@
-Script that converts number from base 2 to 10
+script that rints all combinations of two numbers
