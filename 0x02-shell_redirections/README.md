@@ -1,1 +1,1 @@
-Hiding lines
+Letters only
