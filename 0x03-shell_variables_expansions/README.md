@@ -1,1 +1,1 @@
-Script displaying reesult of breath to the power of love
+Script that converts number from base 2 to 10
