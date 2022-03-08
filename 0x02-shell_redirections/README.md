@@ -1,1 +1,1 @@
-File end by new line
+text ending by a new line
