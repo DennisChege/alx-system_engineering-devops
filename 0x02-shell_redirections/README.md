@@ -1,1 +1,1 @@
-Display lines with root
+Hiding lines
