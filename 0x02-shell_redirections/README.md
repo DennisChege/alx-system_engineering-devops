@@ -1,1 +1,1 @@
-Replacing characters
+Script that removes letters
