@@ -1,1 +1,1 @@
-Script that prints every other line from the input
+script that adds two numbers stored in environment variables
